@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>yinyan</title>
   
-  <subtitle>深呼吸、开始想象未来、实践梦想</subtitle>
+  <subtitle>imagine the future, realize the dreams</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>yin-yan</name>
+    <name>yinyan</name>
     
   </author>
   
