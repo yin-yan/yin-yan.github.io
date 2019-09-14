@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>yinyan</title>
   
-  <subtitle>----------------</subtitle>
+  <subtitle>目前只是一个用来自我练习的个人博客网站</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
